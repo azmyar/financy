@@ -263,3 +263,25 @@ div.user a {
     flex: 1;
     overflow: auto;
 }
+
+.Contact_Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    position: fixed;
+    top: 0; right: 0; bottom: 0; left: 0;
+}
+
+.Contact{
+    position: absolute;
+    display: flex;
+    background-color: #E9AE0B;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);    
+    border-radius: 40px;
+    backdrop-filter: blur(5px);
+    margin: 0 75px 60px 0;
+    height: 60px;
+    width: 120px;
+}

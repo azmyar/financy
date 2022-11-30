@@ -89,6 +89,7 @@ function Deleting(element) {
 
 // Show Balance
 function ShowBalance(element) {
+    console.log(element)
     const endpoint = "http://localhost:8000/";
     const GetPromise = fetch(endpoint);
 
@@ -111,6 +112,9 @@ function ShowBalance(element) {
             <h1 class = "balance_buttons">Expense</h1>
         </div>`;
         let history_list = data[element.id].history.split(',')
+        console.log(history_list)
+
+        console.log(history_list[0])
 
         const index = history_list.indexOf('');
         if (index > -1) {
