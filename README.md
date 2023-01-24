@@ -1,5 +1,5 @@
 # Financy
-Financy merupakan web Financial Planner multiuser yang dapat menyimpan saldo dan riwayat transaksi untuk masing masing user.
+Financy merupakan web Financial Planner multiuser yang dapat menyimpan saldo dan riwayat transaksi untuk masing masing pengguna.
 
 # How to Use
 - Buat user baru dengan melakukan input nama dan saldo terakhir Anda
