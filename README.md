@@ -6,7 +6,7 @@ Financy merupakan web Financial Planner multiuser yang dapat menyimpan saldo dan
 - Klik user yang telah Anda buat untuk menampilkan saldo dan menu untuk mencatat pengeluaran dan pemasukkan
 - Riwayat transaksi akan muncul di sebelah kanan
 
-# Note
+# Notes
 Data-data disimpan di database dengan nama database.db dengan format sebagai berikut:
 
 [{
