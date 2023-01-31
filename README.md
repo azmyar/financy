@@ -7,7 +7,7 @@ Financy merupakan web Financial Planner multiuser yang dapat menyimpan saldo dan
 - Riwayat transaksi akan muncul di sebelah kanan
 
 # Notes
-Data-data disimpan di database dengan nama database.db dengan format sebagai berikut:
+Data-data disimpan di database dengan nama database.db dengan format:
 
 [{
   "balance":0,
