@@ -2,7 +2,7 @@
 Financy merupakan web Financial Planner multiuser yang dapat menyimpan saldo dan riwayat transaksi untuk masing masing pengguna.
 
 # How to Use
-- Buat user baru dengan melakukan input nama dan saldo terakhir Anda
+- Buat user baru dengan melakukan input nama dan saldo terakhir
 - Klik user yang telah Anda buat untuk menampilkan saldo dan menu untuk mencatat pengeluaran dan pemasukkan
 - Riwayat transaksi akan muncul di sebelah kanan
 
